@@ -1,0 +1,1 @@
+{"version":3,"sources":["text.css"],"names":[],"mappings":"AAGE,WACE,qCACF","file":"10.a156b4b9.chunk.css","sourcesContent":[" .box{\n    \n }\n  .box:hover {\n    box-shadow: 0 0 11px rgba(33,33,33,.2); \n  }"]}
